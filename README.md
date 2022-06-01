@@ -7,5 +7,5 @@
 
 
 <p align="center">
-Host this script to Firebase cloud function to auto capture of the payment .
+Host this script to Firebase cloud function to auto capture of the payment .(Server side script)
 </p>
